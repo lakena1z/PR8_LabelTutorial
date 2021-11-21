@@ -3,10 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="LabelTutorial.MainPage">
     <StackLayout Margin="20,35,20,20">
-<<<<<<< Updated upstream
         <Label Text="Welcome to Xamarin.Forms!"
                HorizontalOptions="Center" />
-=======
         <Label TextColor="Gray"
        FontSize="Medium">
             <Label.FormattedText>
@@ -19,6 +17,5 @@
                 </FormattedString>
             </Label.FormattedText>
         </Label>
->>>>>>> Stashed changes
     </StackLayout>
 </ContentPage>
